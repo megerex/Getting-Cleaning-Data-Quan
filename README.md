@@ -10,4 +10,4 @@ User's Guide:
 
 Dependencies:     
   1. Step 4 of the the guide will automatically install depended packages for you if they do not exist previously.
-  2. "run_analysis.R" depends on reshape2, dplyr. 
+  2. "run_analysis.R" depends on reshape2, dplyr.  
