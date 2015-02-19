@@ -1,7 +1,7 @@
 # Getting-Cleaning-Data-Quan
 Getting and Cleaning Data Course Project
 
-User's Guide:
+<title>User's Guide:</title>
 1. Download the data source and put into a folder on your local drive.
 2. Put run_analysis.R in the parent folder of UCI HAR Dataset.
 3. Set the fold where run_analysis.R locates as your working directory using setwd() function in RStudio.
