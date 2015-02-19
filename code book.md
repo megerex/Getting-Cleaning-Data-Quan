@@ -11,4 +11,4 @@ variable list:
 10. "descr.act.train":     data achieved by subseting from "data.frame(activity.table[train.y[,1],2])"
 11. "samsung.data"         data that combines "test.data" and "train.data" by rbind().
 12. "samsung.data.melted"  data formed by melting "samsung.data" with "subject", "ActivityName", "ActivityID" as "id.vars".
-13. "samsung.data.tidy     data formed by cast "samsung.data.melted" with mean value of "subject + ActivityName ~ variable".
+13. "samsung.data.tidy     data formed by cast "samsung.data.melted" with mean value of "subject + ActivityName ~ variable". 
