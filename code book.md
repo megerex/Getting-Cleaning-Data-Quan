@@ -1,4 +1,4 @@
-variable list
+variable list:
 1. "activity.table":       data read in from  "./UCI HAR Dataset/activity_labels.txt".
 2. "feature.table":        data read in from  "./UCI HAR Dataset/features.txt".
 3. "test.subject":         data read in from "./UCI HAR Dataset/test/subject_test.txt".
