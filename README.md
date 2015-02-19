@@ -8,6 +8,6 @@ User's Guide:
   4. Run source("run_analysis.R").
   5. A new file named "TidiedSamSungdataQuan.txt" will appear in your working directory.
 
-Dependencies:
-  Step 4 of the the guide will automatically install depended packages for you if they do not exist previously.
-  "run_analysis.R" depends on reshape2, dplyr. 
+Dependencies:     
+  1. Step 4 of the the guide will automatically install depended packages for you if they do not exist previously.
+  2. "run_analysis.R" depends on reshape2, dplyr. 
